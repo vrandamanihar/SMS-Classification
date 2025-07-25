@@ -71,8 +71,8 @@ wordcloud
 Setup
 Clone the repository:
 
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/vrandamanihar/SMS-Classification.git
+cd SMS-Classification
 
 Install the required libraries:
 You can install them all using pip:
